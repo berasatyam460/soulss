@@ -76,5 +76,5 @@ DerivedDataCache/*
 # Temp Files
 Config/DefaultEditorPerProjectUserSettings.ini
 
-#custome
-~MAP_Demo_BuiltData.uasset
+#custom
+*BuiltData.uasset
